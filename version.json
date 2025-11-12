@@ -1,5 +1,6 @@
 {
   "version": "v1",
+  "vanilla": true,
   "minecraft_version": "1.21.4",
   "forge_version": "1.21.4-54.0.30",
   "modpack_url": "https://github.com/feitan1001/my-launcher-ASSETS/releases/download/v0.1/modpack.zip"
